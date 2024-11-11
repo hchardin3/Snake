@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+venv/
+
+# Or if your virtual environment is named 'snake_venv'
+snake_venv/
